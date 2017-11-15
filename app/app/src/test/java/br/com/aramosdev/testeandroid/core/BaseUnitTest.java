@@ -34,6 +34,8 @@ public abstract class BaseUnitTest<T> {
     @Mock
     protected Context mContext;
 
+    protected boolean mIsResponseError = false;
+
     protected abstract BaseContract.BaseInteraction<T> getPresenter();
 
     protected abstract T getFullResponse();
@@ -47,17 +49,20 @@ public abstract class BaseUnitTest<T> {
     }
 
     protected void setupMockedResponse(T response) {
+        Exception error = new Exception();
         Flowable<T> mockedFlowable;
         if (response == null) {
             mockedFlowable = new Flowable<T>() {
                 @Override
                 protected void subscribeActual(Subscriber<? super T> s) {
-                    s.onNext(null);
+                    if (mIsResponseError) s.onError(null);
+                    else s.onNext(null);
                 }
             };
         } else {
             mockedFlowable = Flowable.just(response);
         }
+        if (mIsResponseError) mockedFlowable = Flowable.error(error);
 
         mMockedSubscriber = new MockedSubscriber(mockedFlowable, getPresenter());
 

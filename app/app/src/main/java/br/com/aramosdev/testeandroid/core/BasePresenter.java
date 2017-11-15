@@ -30,11 +30,6 @@ public abstract class BasePresenter<T, V extends BaseContract.BaseView>
     }
 
     @Override
-    public V getView() {
-        return mView;
-    }
-
-    @Override
     public Type genericType(){
         ParameterizedType parameterizedType = (ParameterizedType) getClass()
                 .getGenericSuperclass();

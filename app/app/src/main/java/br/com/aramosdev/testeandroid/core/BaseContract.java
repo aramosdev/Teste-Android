@@ -19,7 +19,6 @@ public interface BaseContract {
     interface BaseInteraction<T> {
         void handleResponse(T response);
         void handleResponseError(T response);
-        BaseView getView();
         Type genericType();
     }
 }

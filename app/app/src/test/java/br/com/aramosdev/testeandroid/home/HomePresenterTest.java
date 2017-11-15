@@ -38,9 +38,20 @@ public class HomePresenterTest extends BaseUnitTest<MovieResponse> {
     }
 
     @Test
+    public void testGetMovies_error() throws Exception {
+        mIsResponseError = true;
+        setupMockedResponse(mResponse);
+        mPresenter.getMovies(1);
+        verify(mView).showLoading();
+        verify(mView).hideLoading();
+        verify(mView).tryAgain();
+        verify(mView, never()).fillMovieList((List<Movie>) any());
+    }
+
+    @Test
     public void testGetMovies_responseNull() throws Exception {
         setupMockedResponse(null);
-        mPresenter.getMovies();
+        mPresenter.getMovies(1);
         verify(mView).showLoading();
         verify(mView).hideLoading();
         verify(mView).tryAgain();

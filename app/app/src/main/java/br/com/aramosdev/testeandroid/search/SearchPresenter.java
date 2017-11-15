@@ -24,7 +24,7 @@ public class SearchPresenter extends BasePresenter<MovieResponse, SearchContract
         mView.showLoading();
         if (!TextUtils.isNullOrEmpty(mCurrentQuery)) {
             execute(mApi.getServices().searchMovies(mCurrentQuery, mCurrentPage));
-        }
+        } else execute(mApi.getServices().getMovies(mCurrentPage));
     }
 
     @Override
@@ -34,7 +34,7 @@ public class SearchPresenter extends BasePresenter<MovieResponse, SearchContract
         mCurrentQuery = query;
         if (!TextUtils.isNullOrEmpty(mCurrentQuery)) {
             execute(mApi.getServices().searchMovies(mCurrentQuery, mCurrentPage));
-        }
+        } else execute(mApi.getServices().getMovies(mCurrentPage));
     }
 
     @Override

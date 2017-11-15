@@ -44,6 +44,21 @@ public class MovieDetailPresenterTest extends BaseUnitTest<MovieDetailResponse> 
     }
 
     @Test
+    public void testGetMovieDetail_error() throws Exception {
+        mIsResponseError = true;
+        setupMockedResponse(mResponse);
+        mPresenter.getMovieDetail(1);
+        verify(mView).showLoading();
+        verify(mView).hideLoading();
+        verify(mView).tryAgain();
+        verify(mView, never()).showImageMovie(anyString());
+        verify(mView, never()).showTitleMovie(anyString());
+        verify(mView, never()).showReleaseDateMovie(anyString());
+        verify(mView, never()).showOverview(anyString());
+        verify(mView, never()).showVoteMovie(anyString());
+    }
+
+    @Test
     public void testGetMovieDetail_responseNull() throws Exception {
         setupMockedResponse(null);
         mPresenter.getMovieDetail(1);
