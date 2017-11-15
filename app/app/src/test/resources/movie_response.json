@@ -1,0 +1,399 @@
+{
+  "results": [
+    {
+      "vote_count": 252,
+      "id": 440021,
+      "video": false,
+      "vote_average": 6.6,
+      "title": "Happy Death Day",
+      "popularity": 749.731413,
+      "poster_path": "/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg",
+      "original_language": "en",
+      "original_title": "Happy Death Day",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "backdrop_path": "/eGx5OfOdvM0gkHdmkLe3hcJuEIT.jpg",
+      "adult": false,
+      "overview": "A college student relives the day of her murder over and over again as she tries to discover her killer's identity.",
+      "release_date": "2017-10-12"
+    },
+    {
+      "vote_count": 195,
+      "id": 298250,
+      "video": false,
+      "vote_average": 5.9,
+      "title": "Jigsaw",
+      "popularity": 325.385307,
+      "poster_path": "/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg",
+      "original_language": "en",
+      "original_title": "Jigsaw",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "backdrop_path": "/ytKpFaLMpFWnuSXStz1GHrtTt6R.jpg",
+      "adult": false,
+      "overview": "Dead bodies begin to turn up all over the city, each meeting their demise in a variety of grisly ways. All investigations begin to point the finger at deceased killer John Kramer.",
+      "release_date": "2017-10-20"
+    },
+    {
+      "vote_count": 164,
+      "id": 372343,
+      "video": false,
+      "vote_average": 5,
+      "title": "The Snowman",
+      "popularity": 307.352231,
+      "poster_path": "/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg",
+      "original_language": "en",
+      "original_title": "The Snowman",
+      "genre_ids": [
+        80,
+        18,
+        27,
+        9648,
+        53
+      ],
+      "backdrop_path": "/tAg6KUBANIVbYUpTHy5oKibhhw3.jpg",
+      "adult": false,
+      "overview": "Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.",
+      "release_date": "2017-10-12"
+    },
+    {
+      "vote_count": 27,
+      "id": 395458,
+      "video": false,
+      "vote_average": 4.8,
+      "title": "Suburbicon",
+      "popularity": 147.58174,
+      "poster_path": "/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg",
+      "original_language": "en",
+      "original_title": "Suburbicon",
+      "genre_ids": [
+        18,
+        28,
+        80,
+        9648
+      ],
+      "backdrop_path": "/egHeYqgrutiRAzGGWTKp3zqUw0j.jpg",
+      "adult": false,
+      "overview": "A crime mystery set in the quiet family town of Suburbicon during the 1950s, where the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge, and murder.",
+      "release_date": "2017-10-27"
+    },
+    {
+      "vote_count": 86,
+      "id": 290512,
+      "video": false,
+      "vote_average": 6.4,
+      "title": "The Mountain Between Us",
+      "popularity": 135.725773,
+      "poster_path": "/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg",
+      "original_language": "en",
+      "original_title": "The Mountain Between Us",
+      "genre_ids": [
+        10749,
+        12,
+        18
+      ],
+      "backdrop_path": "/p7mUT8Usu1kNlfd1ugk6FwKejlo.jpg",
+      "adult": false,
+      "overview": "Stranded after a tragic plane crash, two strangers must forge a connection to survive the extreme elements of a remote snow covered mountain. When they realize help is not coming, they embark on a perilous journey across the wilderness.",
+      "release_date": "2017-10-05"
+    },
+    {
+      "vote_count": 15,
+      "id": 383709,
+      "video": false,
+      "vote_average": 5.1,
+      "title": "Wonderstruck",
+      "popularity": 132.049573,
+      "poster_path": "/yjDAt9K3FKU1itABgIXl6YvLsVE.jpg",
+      "original_language": "en",
+      "original_title": "Wonderstruck",
+      "genre_ids": [
+        18
+      ],
+      "backdrop_path": "/eUSNKg5tlocYAQs5nHlDxyAefuB.jpg",
+      "adult": false,
+      "overview": "The story of a young boy in the Midwest is told simultaneously with a tale about a young girl in New York from fifty years ago as they both seek the same mysterious connection.",
+      "release_date": "2017-10-20"
+    },
+    {
+      "vote_count": 9,
+      "id": 419680,
+      "video": false,
+      "vote_average": 5.4,
+      "title": "Daddy's Home 2",
+      "popularity": 113.301147,
+      "poster_path": "/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg",
+      "original_language": "en",
+      "original_title": "Daddy's Home 2",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "backdrop_path": "/lMDyuHzBhx3zNAv48vYzmgcJCCD.jpg",
+      "adult": false,
+      "overview": "Brad and Dusty must deal with their intrusive fathers during the holidays.",
+      "release_date": "2017-11-09"
+    },
+    {
+      "vote_count": 8,
+      "id": 300687,
+      "video": false,
+      "vote_average": 4.6,
+      "title": "Same Kind of Different as Me",
+      "popularity": 108.674636,
+      "poster_path": "/cCTwHtXBVL96ImKDwm5T8pPNO41.jpg",
+      "original_language": "en",
+      "original_title": "Same Kind of Different as Me",
+      "genre_ids": [
+        18
+      ],
+      "backdrop_path": "/8axMVK30mf5xDOYJBgD0QS08G4N.jpg",
+      "adult": false,
+      "overview": "International art dealer Ron Hall must befriend a dangerous homeless man in order to save his struggling marriage to his wife, a woman whose dreams will lead all three of them on the journey of their lives.",
+      "release_date": "2017-10-20"
+    },
+    {
+      "vote_count": 6,
+      "id": 141052,
+      "video": false,
+      "vote_average": 7.2,
+      "title": "Justice League",
+      "popularity": 99.64485,
+      "poster_path": "/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg",
+      "original_language": "en",
+      "original_title": "Justice League",
+      "genre_ids": [
+        28,
+        12,
+        14,
+        878
+      ],
+      "backdrop_path": "/o5T8rZxoWSBMYwjsUFUqTt6uMQB.jpg",
+      "adult": false,
+      "overview": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry, and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+      "release_date": "2017-11-15"
+    },
+    {
+      "vote_count": 299,
+      "id": 293768,
+      "video": false,
+      "vote_average": 6,
+      "title": "Kidnap",
+      "popularity": 80.659077,
+      "poster_path": "/2m3BdGReBe18kLZI119wEpSWQRL.jpg",
+      "original_language": "en",
+      "original_title": "Kidnap",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "backdrop_path": "/siRoJI12l4SbWye3wpIotM8OslV.jpg",
+      "adult": false,
+      "overview": "Single mother Karla McCoy lives a perfect life with her young son Frankie. One day, upon entering a local park, Karla sees her son suddenly being abducted out of the blue by a kidnapper. To save Frankie from being taken, Karla goes out on a mission to demand people in the city to help rescue her son.",
+      "release_date": "2017-08-04"
+    },
+    {
+      "vote_count": 71,
+      "id": 392044,
+      "video": false,
+      "vote_average": 6.5,
+      "title": "Murder on the Orient Express",
+      "popularity": 64.199567,
+      "poster_path": "/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg",
+      "original_language": "en",
+      "original_title": "Murder on the Orient Express",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "backdrop_path": "/tvKcA4OFUiZkNeTJmmTkNqKHMMg.jpg",
+      "adult": false,
+      "overview": "Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.",
+      "release_date": "2017-11-03"
+    },
+    {
+      "vote_count": 56,
+      "id": 354912,
+      "video": false,
+      "vote_average": 8,
+      "title": "Coco",
+      "popularity": 57.26719,
+      "poster_path": "/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg",
+      "original_language": "en",
+      "original_title": "Coco",
+      "genre_ids": [
+        10751,
+        16,
+        12
+      ],
+      "backdrop_path": "/gqk6fLXiJnuHRF3IC2sNAfnRJo6.jpg",
+      "adult": false,
+      "overview": "Despite his family’s baffling generations-old ban on music, Miguel (voice of newcomer Anthony Gonzalez) dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz (voice of Benjamin Bratt). Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector (voice of Gael García Bernal), and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+      "release_date": "2017-10-27"
+    },
+    {
+      "vote_count": 0,
+      "id": 355547,
+      "video": false,
+      "vote_average": 0,
+      "title": "The Star",
+      "popularity": 39.543091,
+      "poster_path": "/tEbDvivUfsCupngKIfMJJ725eAD.jpg",
+      "original_language": "en",
+      "original_title": "The Star",
+      "genre_ids": [
+        35,
+        16,
+        12
+      ],
+      "backdrop_path": "/iJ5dkwIHQnq8dfmwSLh7dpETNhi.jpg",
+      "adult": false,
+      "overview": "A small but brave donkey and his animal friends become the unsung heroes of the greatest story ever told, the first Christmas.",
+      "release_date": "2017-11-15"
+    },
+    {
+      "vote_count": 1,
+      "id": 406997,
+      "video": false,
+      "vote_average": 1,
+      "title": "Wonder",
+      "popularity": 39.163173,
+      "poster_path": "/ouYgAatYH4JzIThj6FI3UYf31RI.jpg",
+      "original_language": "en",
+      "original_title": "Wonder",
+      "genre_ids": [
+        18
+      ],
+      "backdrop_path": "/f1Jv532UM9j6zrV2XVkHL7HyyIW.jpg",
+      "adult": false,
+      "overview": "Based on the New York Times bestseller, Wonder tells the inspiring and heartwarming story of August Pullman. Born with facial differences that, up until now, have prevented him from going to a mainstream school, Auggie becomes the most unlikely of heroes when he enters the local fifth grade. As his family, his new classmates, and the larger community all struggle to find their compassion and acceptance, Auggie's extraordinary journey will unite them all and prove you can't blend in when you were born to stand out.",
+      "release_date": "2017-11-16"
+    },
+    {
+      "vote_count": 23,
+      "id": 398818,
+      "video": false,
+      "vote_average": 8.3,
+      "title": "Call Me by Your Name",
+      "popularity": 38.342332,
+      "poster_path": "/tcNniniS4rfqrLH0oORikJfnIwY.jpg",
+      "original_language": "en",
+      "original_title": "Call Me by Your Name",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "backdrop_path": "/8ndqvvwDVe9oDUQF1Jt6NCjAn7z.jpg",
+      "adult": false,
+      "overview": "Elio Perlman is spending the summer with his family at their vacation home in Lombardy, Italy. When his father hires a handsome doctoral student, the curious 17-year-old finds himself developing a growing attraction to the young man.",
+      "release_date": "2017-10-27"
+    },
+    {
+      "vote_count": 30,
+      "id": 431530,
+      "video": false,
+      "vote_average": 5.3,
+      "title": "A Bad Moms Christmas",
+      "popularity": 35.707325,
+      "poster_path": "/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg",
+      "original_language": "en",
+      "original_title": "A Bad Moms Christmas",
+      "genre_ids": [
+        35
+      ],
+      "backdrop_path": "/oR4u6ZlLx0nVUuq1OfYKuwVhtkg.jpg",
+      "adult": false,
+      "overview": "In this comedy a few  titular under-appreciated and over-burdened friends cope with the stresses of the most wonderful time of year as their own mothers visit for the holidays.",
+      "release_date": "2017-11-03"
+    },
+    {
+      "vote_count": 35,
+      "id": 55341,
+      "video": false,
+      "vote_average": 5.5,
+      "title": "Jeepers Creepers 3",
+      "popularity": 35.590849,
+      "poster_path": "/iw4zbtCw01JhTMpFtyYBKEDPBSL.jpg",
+      "original_language": "en",
+      "original_title": "Jeepers Creepers 3",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "backdrop_path": "/9Pd5WNAWrB4YHfZ3Kx5YEapkaLh.jpg",
+      "adult": false,
+      "overview": "Taking place on the last day of the Creeper’s twenty-three-day feeding frenzy, as the skeptical Sergeant Tubbs teams up with a task force hellbent on destroying the Creeper for good. The Creeper fights back in gory glory as its enemies grow closer than ever before to learning the secret of its dark origins.",
+      "release_date": "2017-09-26"
+    },
+    {
+      "vote_count": 444,
+      "id": 417870,
+      "video": false,
+      "vote_average": 7,
+      "title": "Girls Trip",
+      "popularity": 34.227911,
+      "poster_path": "/94nCLn74lBh4pLdZPIad18BpheE.jpg",
+      "original_language": "en",
+      "original_title": "Girls Trip",
+      "genre_ids": [
+        35
+      ],
+      "backdrop_path": "/sjlazM3rNM9f84lXT8s02pn9kTE.jpg",
+      "adult": false,
+      "overview": "Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.",
+      "release_date": "2017-07-21"
+    },
+    {
+      "vote_count": 0,
+      "id": 450322,
+      "video": false,
+      "vote_average": 0,
+      "title": "The Man Who Invented Christmas",
+      "popularity": 31.053891,
+      "poster_path": "/qRkzRue5rTzB6PESXBJCKqROOXC.jpg",
+      "original_language": "en",
+      "original_title": "The Man Who Invented Christmas",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "backdrop_path": "/2lpHdk1ccelg5odsCmk77WqmIvT.jpg",
+      "adult": false,
+      "overview": "After a series his books have been flops, Charles Dickens decides to write and self-publish A Christmas Carol.",
+      "release_date": "2017-11-22"
+    },
+    {
+      "vote_count": 40,
+      "id": 379149,
+      "video": false,
+      "vote_average": 6.1,
+      "title": "The Foreigner",
+      "popularity": 30.956464,
+      "poster_path": "/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
+      "original_language": "en",
+      "original_title": "The Foreigner",
+      "genre_ids": [
+        53,
+        28
+      ],
+      "backdrop_path": "/p6anj7RQe03Gq2hSIxkkoozPMSH.jpg",
+      "adult": false,
+      "overview": "Quan is a humble London businessman whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love -- his teenage daughter -- dies in a senseless act of politically motivated terrorism. His relentless search to find the terrorists leads to a cat-and-mouse conflict with a British government official whose own past may hold the clues to the identities of the elusive killers.",
+      "release_date": "2017-09-24"
+    }
+  ],
+  "page": 1,
+  "total_results": 237,
+  "dates": {
+    "maximum": "2017-12-12",
+    "minimum": "2017-11-18"
+  },
+  "total_pages": 12
+}

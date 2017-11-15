@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Teste android</string>
+    <string name="title_home">The Movie DB</string>
+    <string name="vote_movie">nota %1$d</string>
+    <string name="release_date_movie">data de lançamento - %1$s</string>
+    <string name="home_title">Home</string>
+    <string name="detail_title">Filme</string>
+    <string name="ops_title">Ops</string>
+    <string name="error_message">Serviço indisponível.\nTente novamente mais tarde.</string>
+    <string name="try_again">Tentar novamente</string>
+    <string name="cancel">Cancelar</string>
+    <string name="search_hint">Buscar por</string>
+</resources>

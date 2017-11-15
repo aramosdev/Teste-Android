@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/eGx5OfOdvM0gkHdmkLe3hcJuEIT.jpg",
+  "belongs_to_collection": null,
+  "budget": 4800000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 440021,
+  "imdb_id": "tt5308322",
+  "original_language": "en",
+  "original_title": "Happy Death Day",
+  "overview": "A college student relives the day of her murder over and over again as she tries to discover her killer's identity.",
+  "popularity": 748.731413,
+  "poster_path": "/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg",
+  "production_companies": [
+    {
+      "name": "Blumhouse Productions",
+      "id": 3172
+    },
+    {
+      "name": "Vesuvius Productions",
+      "id": 23592
+    },
+    {
+      "name": "Digital Riot Media",
+      "id": 96377
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-10-12",
+  "revenue": 78700000,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Get up. Live your day. Get killed. Again.",
+  "title": "Happy Death Day",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 265
+}
